@@ -1,0 +1,224 @@
+.Kazantseva {
+    position: absolute;
+    width: 257px;
+    height: 62px;
+    right: 20px;
+    top: 26px;
+    text-align:center;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 34px;
+    /* or 155% */
+    
+    text-align: center;
+    
+    color: #000000;
+    border: 1px solid rgb(10, 9, 9)(105, 105, 105);
+    padding-left: 122px;
+    padding-right: 122px;
+    padding-bottom: 29px;
+    padding-top: 39px;
+    }
+    
+
+.head-information li {
+    position: relative;
+    display: inline;	/* Располагаем элементы по горизонтали */
+    list-style: none;
+    outline: 2px solid #000; /* Чёрная рамка */
+    border: 3px solid #fff; /* Белая рамка */
+    border-radius: 10px; /* Радиус скругления */
+    left: -80px;
+
+    
+}
+
+
+.hello h1 {
+    position: relative;
+    top:200px;
+    left:30px;
+    border: 1px solid rgb(10, 9, 9)(105, 105, 105);
+    padding: 10px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 34px;
+    /* or 155% */
+    
+    text-align: center;
+    
+    color: #000000;
+    border: 1px solid rgb(10, 9, 9)(105, 105, 105);
+    padding: 10px;
+    }
+
+
+    .about {
+        position: absolute;
+        width: 257px;
+        height: 62px;
+        right: 20px;
+        top: 26px;
+        text-align:center;
+        
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 22px;
+        line-height: 34px;
+        /* or 155% */
+        
+        text-align: center;
+        
+        color: #000000;
+        border: 1px solid rgb(10, 9, 9)(105, 105, 105);
+        padding-left: 122px;
+        padding-right: 122px;
+        padding-bottom: 29px;
+        padding-top: 39px;
+
+    }
+    .education {
+        position: absolute;
+        width: 257px;
+        height: 62px;
+        right: 20px;
+        top: 26px;
+        text-align:center;
+        
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 22px;
+        line-height: 34px;
+        /* or 155% */
+        
+        text-align: center;
+        
+        color: #000000;
+        border: 1px solid rgb(10, 9, 9)(105, 105, 105);
+        padding-left: 122px;
+        padding-right: 122px;
+        padding-bottom: 29px;
+        padding-top: 39px;
+
+    }
+
+    .why-me {
+        position: relative;
+        width: 257px;
+        height: 62px;
+        right: 20px;
+        top: 26px;
+        text-align:center;
+        
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 22px;
+        line-height: 34px;
+        /* or 155% */
+        
+        text-align: center;
+        
+        color: #000000;
+        border: 1px solid rgb(10, 9, 9)(105, 105, 105);
+        padding-left: 122px;
+        padding-right: 122px;
+        padding-bottom: 29px;
+        padding-top: 39px;
+
+    }
+
+
+    .my-students {
+        position: relative;
+    width: 257px;
+    height: 62px;
+    right: 20px;
+    top: 26px;
+    text-align:center;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 34px;
+    /* or 155% */
+    
+    text-align: center;
+    
+    color: #000000;
+    border: 1px solid rgb(10, 9, 9)(105, 105, 105);
+    padding-left: 122px;
+    padding-right: 90px;
+    padding-bottom: 29px;
+    padding-top: 39px;
+    padding-bottom: 29px;
+
+    }
+
+
+  .hello {
+      position: absolute;
+
+
+  }
+  
+  .hello h1 {
+    position: relative;
+    left: 290px;
+    bottom:101px;
+    top: 400px;
+    text-align: inherit;
+    
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 84px;
+line-height: 130px;
+/* identical to box height, or 155% */
+
+color: #000000;
+  }
+  
+  .Nastya-1 {
+      position: absolute;
+      left:1050px;
+      top:140px;
+  }
+
+  .arrow {
+    position: relative;
+    left: 390px;
+    bottom:101px;
+    top: 400px;
+  }
+
+
+    .about-me {
+        position: relative;
+        right: 200px;
+        top: 900px;
+    }
+
+    .Nastya-2 {
+        position: absolute;
+        left: 290px;
+        top:140px;
+    }
+
+    .text-about-me p {
+        position: absolute;
+        width: 638px;
+        height: 527px;
+        left: 1000px;
+        top: 400px;
+        
+    }
