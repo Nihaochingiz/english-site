@@ -155,7 +155,7 @@
     
     color: #000000;
     border: 1px solid rgb(10, 9, 9)(105, 105, 105);
-    padding-left: 122px;
+    padding-left: 110px;
     padding-right: 90px;
     padding-bottom: 29px;
     padding-top: 39px;
@@ -214,11 +214,175 @@ color: #000000;
         top:140px;
     }
 
-    .text-about-me p {
+    .challengers {
         position: absolute;
         width: 638px;
         height: 527px;
         left: 1000px;
-        top: 400px;
+        top: 250px;
+        font-family: 'Roboto', sans-serif;
+        
         
     }
+
+
+    .additional-education {
+        position: absolute;
+        width: 638px;
+        height: 527px;
+        left: 1000px;
+        top: 350px;
+        font-family: 'Roboto', sans-serif;
+    }
+
+
+    .cambridge {
+        position: absolute;
+        width: 638px;
+        height: 527px;
+        left: 1000px;
+        top: 450px;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    .text-about-me h3 {
+        position: absolute;
+width: 137px;
+height: 73px;
+left: 1150px;
+top: 160px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 34px;
+/* or 155% */
+
+text-align: center;
+
+color: #000000;
+    }
+
+
+    
+    .education h1 {
+        position: relative;
+        height: 75px;
+        right: 1310px;
+        
+        top: 1782px;
+        
+        font-weight: normal; /* Убираем жирное начертание */
+        padding-bottom: 5px; /* Расстояние от текста до линии */
+
+        border-radius: 0px;
+        display: inline-block;
+        
+
+
+
+
+        
+    }
+    
+
+.images-in-education {
+    position: relative;
+    top: 1882px;
+    right: 1410px;
+}
+
+
+
+
+.faculty {
+    position: absolute;
+    left: 50px;
+    top: -10px;
+}
+
+
+.photo-from-vk {
+
+    position: absolute;
+    top: -10px;
+    left: 900px;
+
+
+}
+
+
+
+
+.sign-to-faculty {
+    
+    top: 2550px;
+    right: 1210px;
+    position: absolute;
+width: 460px;
+height: 145px;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 34px;
+/* or 142% */
+
+text-align: center;
+
+color: #000000;
+    
+
+}
+
+.sign-to-photo-from-vk {
+    position: absolute;
+width: 544px;
+height: 161px;
+top: 3200px;
+right: 310px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 34px;
+/* or 142% */
+
+text-align: center;
+
+color: #000000;
+  
+}
+
+.whole-arrow {
+    position: static;
+}
+.arrow-bottom {
+position: relative;
+width: 346.04px;
+height: 0px;
+top: 2805px;
+right: 451px;
+
+border: 1px solid #E29BAB;
+box-sizing: border-box;
+transform: rotate(-89.18deg)
+}
+
+
+.arrow-top {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    border-top: 5px solid #E29BAB;
+    border-right: 5px solid #E29BAB;
+    margin-right: 10px;
+    top: 2659px;
+    right: 288px;
+    transform: rotate(-40.18deg)
+      
+}
