@@ -386,3 +386,59 @@ transform: rotate(-89.18deg)
     transform: rotate(-40.18deg)
       
 }
+
+
+
+.why-me h1 {
+    position: relative;
+    margin-top: 3400px;
+    
+}
+
+.why-me-advantages {
+    position: absolute;
+    top: 3500px;
+    left: 100px;
+    
+    
+
+}
+
+.why-me-advantages li {
+    text-align:left;
+}
+
+
+.images-about-london  {
+    position: relative;
+    margin-top: 220px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+
+.my-students-photo h1 {
+    position: relative;
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 70px;
+line-height: 108px;
+padding-left: 600px;
+}
+
+
+.my-students-photo {
+    
+    position: absolute;
+    top: 4500px;
+    left: 100px;
+}
+
+
+.teens {
+    position:relative;
+    margin-top: 140px;
+    margin-left: 50px;
+}
