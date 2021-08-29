@@ -418,27 +418,122 @@ transform: rotate(-89.18deg)
 }
 
 
-.my-students-photo h1 {
-    position: relative;
-    font-family: Roboto;
+.about-my-students h1 {
+position: absolute;
+font-family: Roboto;
 font-style: normal;
 font-weight: bold;
 font-size: 70px;
 line-height: 108px;
-padding-left: 600px;
+top: 4450px;
+left: 150px;
 }
 
 
 .my-students-photo {
+    position: relative;
+    margin-top: 220px;
+    display: flex;
+    flex-direction: row;
     
     position: absolute;
     top: 4500px;
     left: 100px;
+}   
+
+.my-students-photo img {
+    width: 436;
+    height: 299px;
+}
+.my-students-photo h3 {
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 58px;
+line-height: 48px;
+/* or 83% */
+
+
+color: #FF5C5C;
 }
 
 
-.teens {
-    position:relative;
-    margin-top: 140px;
-    margin-left: 50px;
+.teens h3 {
+    color: #B63DB9;
+}
+
+.footer {
+    position: relative;
+    margin-top: 5100px;
+    background: #AABAD0;
+    margin-right: -10px;
+    margin-left: -10px;
+    margin-bottom: -20px;
+}
+
+.left-side h1 {
+    position: relative;
+    margin-top: 100px;
+    margin-left: 100px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 69px;
+line-height: 108px;
+/* identical to box height, or 157% */
+
+
+color: #000000;
+}
+
+
+.social-links  {
+    position: relative;
+    margin-top:40px;
+    margin-left: 70px;
+    list-style-type: none;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+
+.left-side p {
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 155% */
+
+
+color: #000000;
+position: relative;
+margin-top:40px;
+margin-left:105px;
+
+}
+
+.date  {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    /* identical to box height, or 155% */
+    
+    
+    color: #000000;
+    position: relative;
+    margin-top:100px;
+    margin-left:105px;
+}
+
+
+.right-side {
+    position: relative;
+    margin-left: 1100px;
+    margin-bottom: 100px;
 }
