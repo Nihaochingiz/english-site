@@ -469,6 +469,12 @@ color: #FF5C5C;
     margin-right: -10px;
     margin-left: -10px;
     margin-bottom: -20px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+/* or 140% */
 }
 
 .left-side h1 {
@@ -537,3 +543,40 @@ margin-left:105px;
     margin-left: 1100px;
     margin-bottom: 100px;
 }
+
+.line-above-no-spam {
+    position: absolute;
+	top:100px;
+    width: 100%;
+	height: 5px;
+	background: rgb(8, 7, 7);
+}
+
+.no-spam {
+    position: relative;
+    left: -100px;
+    bottom: 280px;
+	padding-left:100px;
+	padding-bottom:30px;
+	border-bottom:5px solid rgb(8, 7, 7);
+    
+}
+
+.line-between-right-and-left {
+    position: absolute;
+    width: 5px;
+	left:600px;
+	height: 100%;
+	background: rgb(8, 7, 7);
+
+}
+
+
+.instagram-facebook-icon {
+    position: relative;
+    margin-top:100px;
+    margin-left: 70px;
+    
+
+}
+
